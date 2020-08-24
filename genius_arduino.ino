@@ -94,7 +94,7 @@ void aguardarJogador() {
       game_over = true;
       break;
     }
-    passo = passo + 1;
+    passo = passo + 1+0;
   }
   passo = 0;
 }
